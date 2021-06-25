@@ -5,18 +5,18 @@
 
 ## Kullanım
 
-1. Sunucu **sunucu.py** ile çalıştırılır.
-1. İstemci **istemci.py sunucu_ip_adresi** ile çalıştırılır.
+1. Sunucu `sunucu.py` ile çalıştırılır.
+1. İstemci `istemci.py sunucu_ip_adresi` ile çalıştırılır.
 
-* Sunucudan dosya almak için **get dosya_adi.uzanti** komutu kullanılır.
+* Sunucudan dosya almak için `get dosya_adi.uzanti` komutu kullanılır.
 
     Ornek kullanım -> get Manowar-Call_to_Arms_lyrics.txt
 
-* Sunucuya dosya göndermek için **put dosya_adi.uzanti** komutu kullanılır.
+* Sunucuya dosya göndermek için `put dosya_adi.uzanti` komutu kullanılır.
 
     Ornek -> put Judas_Priest-Hell_Patrol.mp3
 
-* Sunucu üzerindenki dosyaları listelemek için **listele** komutu kullanılır.
+* Sunucu üzerindenki dosyaları listelemek için `listele` komutu kullanılır.
 
     Ornek -> listele
 
